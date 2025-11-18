@@ -1,0 +1,47 @@
+1️⃣ Frontend
+
+Technologies:
+
+ASP.NET Core MVC / Razor Pages – server-side rendered pages
+
+Blazor – modern frontend framework using C# for interactive web apps
+
+JavaScript/TypeScript frameworks (optional) like React, Angular, or Vue can also be integrated
+
+Role: Handles the user interface, user interactions, and rendering of web pages
+
+Example: Dashboards, forms, responsive UI components
+
+2️⃣ Backend
+
+Technology: ASP.NET Core / .NET 6+
+
+Role: Handles server-side logic, APIs, authentication, and business rules
+
+Features:
+
+REST API development
+
+Middleware and routing
+
+Dependency Injection for better architecture
+
+Example: User login, data processing, sending emails, handling requests
+
+3️⃣ Database
+
+Technologies:
+
+SQL Server – primary relational database
+
+Can also use MySQL, PostgreSQL, or NoSQL databases like MongoDB if needed
+
+Role: Stores application data securely and efficiently
+
+Features:
+
+Supports transactions, joins, and indexing
+
+Strong consistency for enterprise applications
+
+Example: Storing user accounts, product data, orders, and logs
