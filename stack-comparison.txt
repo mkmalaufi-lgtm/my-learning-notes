@@ -2,3 +2,34 @@ Introduction
 A technology stack refers to the combination of tools, frameworks, and technologies used to build a web or software application. It typically includes a frontend (user interface), backend (server-side logic), and a database (data storage).
 
 Different stacks are optimized for different types of applications, project sizes, performance needs, and development speed. Comparing technology stacks—such as MERN, .NET, and Spring Boot—helps developers, project managers, and businesses choose the most suitable stack for their project requirements.
+MERN Stack
+
+Frontend: React.js, a component-based library for building dynamic, single-page applications (SPA).
+
+Backend: Node.js with Express.js, providing lightweight, fast, and scalable server-side logic using JavaScript.
+
+Database: MongoDB, a NoSQL database that stores data in flexible JSON-like documents.
+
+Programming Language: JavaScript for both frontend and backend.
+
+Performance & Scalability: High performance for I/O-intensive apps; easy horizontal scaling with Node.js and MongoDB.
+
+Best For: Real-time apps, startups, SPAs, and projects requiring fast development.
+
+Community: Large open-source community with frequent updates and libraries.
+
+Spring Boot Stack
+
+Frontend: Can use Thymeleaf for server-side rendering, or modern JS frameworks like React, Angular, or Vue for SPA.
+
+Backend: Spring Boot (Java) provides robust, enterprise-ready backend logic, REST APIs, and microservices support.
+
+Database: Primarily relational databases like MySQL or PostgreSQL; NoSQL options like MongoDB can also be used.
+
+Programming Language: Java for backend; frontend can use JS/TS frameworks.
+
+Performance & Scalability: Excellent for CPU-intensive, large-scale enterprise applications; supports structured, maintainable architecture.
+
+Best For: Enterprise-level applications, microservices, secure web apps, and long-term projects.
+
+Community: Mature Java ecosystem with strong enterprise support.
