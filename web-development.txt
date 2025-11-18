@@ -1,0 +1,16 @@
+web-development
+
+introduction
+Definition: Web development is the process of building and maintaining websites and web applications.
+
+Front-End → What users see (HTML, CSS, JavaScript).
+
+Back-End → Server, database, and logic (Python, PHP, Node.js).
+
+Full-Stack → Combination of both.
+
+Key Tools: Frameworks (React, Angular, Django), databases (MySQL, MongoDB), and version control (Git).
+
+Why It Matters: High demand, creative + logical work, and impactful career opportunities.
+
+Beginner Path: Start with HTML → CSS → JavaScript → then explore frameworks and back-end.

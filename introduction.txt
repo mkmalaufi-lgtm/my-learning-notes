@@ -1,0 +1,4 @@
+The SDLC is a process to build software .It has steps like analysis, design, developer, testing, and maintenance.
+ Each step makes the software better and safer. It helps teams deliver good software on time.
+Agile is a flexible way to build software step by step with quick changes.
+ Waterfall is a strict process where each step must finish before the next one starts.
