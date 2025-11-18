@@ -2,3 +2,34 @@ Introduction
 A technology stack refers to the combination of tools, frameworks, and technologies used to build a web or software application. It typically includes a frontend (user interface), backend (server-side logic), and a database (data storage).
 
 Different stacks are optimized for different types of applications, project sizes, performance needs, and development speed. Comparing technology stacks—such as MERN, .NET, and Spring Boot—helps developers, project managers, and businesses choose the most suitable stack for their project requirements.
+MERN Stack
+
+Frontend: React.js, a component-based library for building dynamic, single-page applications (SPA).
+
+Backend: Node.js with Express.js, providing lightweight, fast, and scalable server-side logic.
+
+Database: MongoDB, a NoSQL database that stores data in flexible JSON-like documents.
+
+Programming Language: JavaScript throughout the stack (full-stack JS).
+
+Performance & Scalability: High performance for I/O-intensive applications; easy horizontal scaling with Node.js and MongoDB.
+
+Best For: Real-time apps, startups, SPAs, and projects requiring fast development.
+
+Community: Large open-source community with frequent updates and libraries.
+
+.NET Stack
+
+Frontend: Razor Pages or Blazor for server-side rendered UI, or integrated JS frameworks like React/Angular/Vue.
+
+Backend: ASP.NET Core with C#, providing robust, structured server-side logic and API handling.
+
+Database: Primarily SQL Server (relational), but can also use NoSQL databases if needed.
+
+Programming Language: C# for backend, optionally JavaScript/TypeScript for frontend.
+
+Performance & Scalability: High performance for CPU-intensive, enterprise-grade applications; supports complex business logic and secure transactions.
+
+Best For: Enterprise applications, banking, ERP systems, and large-scale secure applications.
+
+Community: Mature ecosystem with enterprise support from Microsoft.
