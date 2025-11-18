@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git init → Start a new repository
 
 git clone <url> → Copy a repo from remote
@@ -7,3 +8,14 @@ git status → Check current changes
 git add <file> → Stage changes
 
 git commit -m "msg" → Save changes
+=======
+git init → Start a new repository
+
+git clone <url> → Copy a repo from remote
+
+git status → Check current changes
+
+git add <file> → Stage changes
+
+git commit -m "msg" → Save changes
+>>>>>>> 96ce7329f7ef82cdbba4946aa70a85ae4ea6f5b9
