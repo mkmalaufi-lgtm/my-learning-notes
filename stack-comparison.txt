@@ -1,0 +1,4 @@
+Introduction
+A technology stack refers to the combination of tools, frameworks, and technologies used to build a web or software application. It typically includes a frontend (user interface), backend (server-side logic), and a database (data storage).
+
+Different stacks are optimized for different types of applications, project sizes, performance needs, and development speed. Comparing technology stacks—such as MERN, .NET, and Spring Boot—helps developers, project managers, and businesses choose the most suitable stack for their project requirements.
