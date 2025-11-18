@@ -1,0 +1,93 @@
+1️⃣ Frontend
+
+Technologies:
+
+Can use Thymeleaf (server-side template engine) for rendering pages
+
+Can integrate React, Angular, or Vue for a modern SPA (Single Page Application)
+
+Role: Handles the user interface and user interactions
+
+Example: Forms, dashboards, dynamic web pages
+
+2️⃣ Backend
+
+Technology: Spring Boot (Java)
+
+Role: Handles server-side logic, REST APIs, authentication, and business operations
+
+Features:
+
+Simplifies configuration with auto-configuration
+
+Provides Spring Security for authentication and authorization
+
+Built-in support for RESTful APIs and microservices
+
+Dependency Injection for cleaner architecture
+
+Example: Processing user login, managing orders, sending notifications
+
+3️⃣ Database
+
+Technologies:
+
+Relational databases like MySQL, PostgreSQL, Oracle
+
+Can also use NoSQL databases like MongoDB if needed
+
+Role: Stores and manages application data securely
+
+Features:
+
+Supports transactions, indexing, and relational queries
+
+Easily integrates with Spring Data JPA for ORM (Object-Relational Mapping)
+
+Example: Storing user profiles, products, orders, and logs1️⃣ Frontend
+
+Technologies:
+
+Can use Thymeleaf (server-side template engine) for rendering pages
+
+Can integrate React, Angular, or Vue for a modern SPA (Single Page Application)
+
+Role: Handles the user interface and user interactions
+
+Example: Forms, dashboards, dynamic web pages
+
+2️⃣ Backend
+
+Technology: Spring Boot (Java)
+
+Role: Handles server-side logic, REST APIs, authentication, and business operations
+
+Features:
+
+Simplifies configuration with auto-configuration
+
+Provides Spring Security for authentication and authorization
+
+Built-in support for RESTful APIs and microservices
+
+Dependency Injection for cleaner architecture
+
+Example: Processing user login, managing orders, sending notifications
+
+3️⃣ Database
+
+Technologies:
+
+Relational databases like MySQL, PostgreSQL, Oracle
+
+Can also use NoSQL databases like MongoDB if needed
+
+Role: Stores and manages application data securely
+
+Features:
+
+Supports transactions, indexing, and relational queries
+
+Easily integrates with Spring Data JPA for ORM (Object-Relational Mapping)
+
+Example: Storing user profiles, products, orders, and logs
